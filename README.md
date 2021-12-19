@@ -1,6 +1,5 @@
 <h3 align="center">Hi there, I'm Manisekar Sugumaran👋</h3> 
 <h3 align="center">I'm a Full Stack Developer / MERN Developer from <b>Chennai, Tamil Nadu.</b></h3>
-<br/>
 <h4>- 🔭 Proficient in Full-stack-development specialized in MERN STACK.</h4>
 <h4>- 👯 I’m looking for a job in the Full Stack Developer domain.</h4> 
 <h4>- 🥅 MongoDB, Express.js, React.js, Node.js.</h4>
@@ -19,7 +18,6 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
      <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>   
 </p>
-<br />
 
 ---
 
