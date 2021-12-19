@@ -5,7 +5,6 @@
 <h4>- 👯 I’m looking for a job in the Full Stack Developer domain.</h4> 
 <h4>- 🥅 MongoDB, Express.js, React.js, Node.js.</h4>
 <h4>- ⚡ Looking to start the career as a MERN stack developer with a reputed firm driven by technology.</h4>
-<br />
 
 ---
 
