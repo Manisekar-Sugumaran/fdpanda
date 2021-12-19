@@ -7,7 +7,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -21,7 +21,7 @@
 
 ---
 
-### Connect with me ❤️:
+### Connect with me ❤️
 <p align="left">
 <a href="https://fd-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fdpanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manisekar-sugumaran-331134168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fdpanda" height="30" width="40" /></a>
