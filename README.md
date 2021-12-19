@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Manisekar Sugumaran👋</h3> 
+<h2 align="center">Hi there, I'm Manisekar Sugumaran👋</h2> 
 <h3 align="center">I'm a Full Stack Developer / MERN Developer from <b>Chennai, Tamil Nadu.</b></h3>
 <h4>- 🔭 Proficient in Full-stack-development specialized in MERN STACK.</h4>
 <h4>- 👯 I’m looking for a job in the Full Stack Developer domain.</h4> 
