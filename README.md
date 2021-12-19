@@ -21,6 +21,13 @@
 
 ---
 
+### GitHub Stats
+![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdpanda&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdpanda&layout=compact&theme=radical&langs_count=6)
+
+---
+
 ### Connect with me ❤️
 <p align="left">
 <a href="https://fd-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fdpanda" height="30" width="40" /></a>
